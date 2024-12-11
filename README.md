@@ -1,2 +1,9 @@
-# Flask-Template
-A simple template for a flask app with basic config preconfigured for codespaces
+# GitHub Codespaces ♥️ Flask
+
+This is a template for creating simple Flask apps with a Codespaces environment configured and ready to go.
+
+To run this application:
+
+```
+flask --debug run
+```
