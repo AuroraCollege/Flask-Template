@@ -26,7 +26,8 @@
           "ms-python.python",
           "ms-python.vscode-pylance",
           "ms-python.flask-snippets",
-          "alexcvzz.vscode-sqlite"
+          "alexcvzz.vscode-sqlite",
+          "yy0931.vscode-sqlite3-editor"
         ]
       },
       "postCreateCommand": "pip install flask flask-admin sqlalchemy sqlite3",
