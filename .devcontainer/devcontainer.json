@@ -22,6 +22,15 @@
         ]
       },
       "vscode": {
+        "settings": {
+          "github.copilot.enable": {
+            "*": false
+          },
+          "github.copilot.editor.enableAutoCompletions": false,
+          "github.copilot.chat.editor.temporalContext.enabled": false,
+          "chat.commandCenter.enabled": false,
+          "editor.inlineSuggest.enabled": false
+        },
         "extensions": [
           "ms-python.python",
           "ms-python.vscode-pylance",
